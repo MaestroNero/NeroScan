@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ NeroScan
 
 A powerful automated file scanning tool designed for cybersecurity research.  
@@ -33,7 +32,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/YourUsername/NeroScan.git
 cd NeroScan
-```
+
 
 Install the required dependencies:
 
