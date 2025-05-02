@@ -1,4 +1,5 @@
 # 🛡️ NeroScan
+![Tool Preview](https://i.postimg.cc/YqVWwntg/Screenshot-From-2025-05-02-11-15-39.png)
 
 A powerful automated file scanning tool designed for cybersecurity research.  
 Helps quickly analyze suspicious files and generate detailed reports with a clean, color-coded interface.
