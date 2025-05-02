@@ -35,10 +35,11 @@ git clone https://github.com/MaestroNero/NeroScan.git
 cd NeroScan
 ```
 
-Install the required dependencies:
+Install The tool:
 
 ```bash
-pip install -r requirements.txt
+chmod +x install.sh
+./install.sh
 ```
 
 Run the tool:
