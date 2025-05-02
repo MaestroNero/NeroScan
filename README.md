@@ -1,3 +1,4 @@
+```markdown
 # 🛡️ NeroScan
 
 A powerful automated file scanning tool designed for cybersecurity research.  
@@ -33,31 +34,36 @@ Clone the repository:
 git clone https://github.com/YourUsername/NeroScan.git
 cd NeroScan
 ```
+
 Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
+
 Run the tool:
+
 ```bash
 python3 neroscan.py
 ```
 
-🚀 Usage
+---
+
+## 🚀 Usage
+
 You will be prompted to enter the path of the file you want to scan.
 
 The tool will:
 
-Upload the file.
+1. Upload the file.
+2. Wait for the analysis.
+3. Display the result in a color-coded table showing the severity of the scan results.
 
-Wait for the analysis.
+---
 
-Display the result in a color-coded table showing the severity of the scan results.
+## 📜 License & Credits
 
-📜 License & Credits
 This project is open-source and maintained by:
 
-👤 The Maestro Nero
-🔗 Telegram Channel
-
-Please credit properly if you fork or reuse the code.
+👤 The Maestro Nero  
+🔗 [Telegram Channel](https://t.me/CYBER_Nero)
