@@ -30,7 +30,7 @@ Helps quickly analyze suspicious files and generate detailed reports with a clea
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/NeroScan.git
+git clone https://github.com/MaestroNero/NeroScan.git
 cd NeroScan
 ```
 
