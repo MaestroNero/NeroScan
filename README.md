@@ -47,6 +47,10 @@ Run the tool:
 ```bash
 python3 neroscan.py
 ```
+How I use it:
+
+[>] Enter the path to the file you want to scan: 
+> /home/nero/[namefile]
 
 ---
 
